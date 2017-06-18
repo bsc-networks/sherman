@@ -2,7 +2,7 @@
 
 ## Internet Uplink ##
 
-Through Comcast Business.
+Through Comcast Business. 
 Bandwidth Limit is 100Mbps down, 20Mbps up.
 
 ## Modem ##
@@ -30,4 +30,6 @@ It is a [Ubiquiti EdgeRouter ER-8](https://www.ubnt.com/edgemax/edgerouter/)
 ## APs ##
 
 ## Switches ##
-* 10.20.136.20 - Network Closet - 44:D9:E7:06:0C:2D - [Ubiquiti EdgeSwitch ES-48-500W](https://www.ubnt.com/edgemax/edgeswitch/)
+| IP                                  | MAC               | Location       | Device |
+|-------------------------------------|-------------------|----------------|--------|
+| [10.20.136.20](http://10.20.136.20) | 44:D9:E7:06:0C:2D | Network Closet | [Ubiquiti EdgeSwitch ES-48-500W](https://www.ubnt.com/edgemax/edgeswitch/) |
