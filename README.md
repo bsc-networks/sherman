@@ -30,9 +30,9 @@ It is a [Ubiquiti EdgeRouter ER-8](https://www.ubnt.com/edgemax/edgerouter/)
 ## APs ##
 | IP                                  | MAC               | Location       | Device                                                          | Channel |
 |-------------------------------------|-------------------|----------------|-----------------------------------------------------------------|---------|
-| [10.20.136.40](http://10.20.136.40) | 4A:D9:E7:67:0C:F3 | Network Closet | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) | 11      |
-| [10.20.136.41](http://10.20.136.41) | 4A:D9:E7:67:09:36 | 2nd Floor East | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) |  1      |
-| [10.20.136.42](http://10.20.136.42) | 4A:D9:E7:67:0D:FD | Living Room    | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) |  6      |
+| [10.20.136.40](http://10.20.136.40) | 44:D9:E7:66:0C:F3 | Network Closet | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) | 11      |
+| [10.20.136.41](http://10.20.136.41) | 44:D9:E7:66:09:36 | 2nd Floor East | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) |  1      |
+| [10.20.136.42](http://10.20.136.42) | 44:D9:E7:66:0D:FD | Living Room    | [Ubiquiti UniFi AP UAP-LR](https://www.ubnt.com/unifi/unifi-ap) |  6      |
 
 ## Switches ##
 | IP                                  | MAC               | Location       | Device                                                                     |
